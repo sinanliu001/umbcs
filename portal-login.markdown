@@ -1,6 +1,7 @@
 ---
 layout: "page"
 title: "portal login"
+permalink: "/portal"
 ---
 
-Redirect UNIX login page here
+Redirect UNIX login page hereeeeee
