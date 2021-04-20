@@ -4,3 +4,5 @@
 
 layout: home
 ---
+
+![doggo](images/CS-dog.jpeg)
