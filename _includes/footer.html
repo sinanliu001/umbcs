@@ -3,20 +3,48 @@
 
   <div class="wrapper">
 
-    <h2 class="footer-heading">{{ site.title | escape }}</h2>
+    <!-- Changes begins here -->
 
+    <div class="about"> 
+      <ul>
+      <h1> About</h1>
+      <p><a href="{{site.baseurl}}/department"> Department</a></p>
+       
+      <p><a href="{{site.baseurl}}/facilities"> Facilities</a></p>
+      <p> Contact Us </p>
+      <p> Getting Here </p>
+    </ul>
+    </div>
+    <div class="Acedemics">
+      <ul>
+        <h1> Acedemics</h1>
+        <p> Admissions</p>
+        <p> Student Funding</p>
+        <p> Undegraduate Programs</p>
+        <p> CS Minor </p>
+        <p> Graduate Programs </p>
+        <p> Honors Program </p>
+        <p> Certificate Programs </p>
+        <p> Courses </p>
+        <p> Course Schedule </p>
+      </ul>
+    </div>
+ 
+
+    <!-- Changes made upto here -->
+    
+
+    <!--
     <div class="footer-col-wrapper">
       <div class="footer-col footer-col-1">
         <ul class="contact-list">
           <li class="p-name">
-            {%- if site.author -%}
-              {{ site.author | escape }}
-            {%- else -%}
-              {{ site.title | escape }}
-            {%- endif -%}
+            <p> About</p>
             </li>
             {%- if site.email -%}
-            <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+            <li>
+              <a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a>
+            </li>
             {%- endif -%}
         </ul>
       </div>
@@ -28,12 +56,10 @@
       <div class="footer-col footer-col-3">
         <p>{{- site.description | escape -}}</p>
       </div>
-
-      <div class="footer-col footer-col-4">
-        <a href="/about/department.markdown"> The Department</a>
       </div>
     </div>
 
-  </div>
+  </div>  
+-->
 
 </footer>
