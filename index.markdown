@@ -5,4 +5,7 @@
 layout: home
 ---
 
-![doggo](images/CS-dog.jpeg)
+
+![campus](images/testpic.jpg)
+
+
