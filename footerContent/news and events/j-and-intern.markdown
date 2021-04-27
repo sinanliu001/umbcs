@@ -3,8 +3,8 @@ footer_title: "Jobs and Interships"
 layout: page
 permalink: "/jobs-and-internships"
 ---
-## Jobs and Internships
 
+<<<<<<< HEAD
 ## Spring 2021
 
 ---
@@ -85,3 +85,6 @@ WEDNESDAY, ...
 **Posted on**: January 26, 2021
 
 ---
+=======
+## Jobs and Internships
+>>>>>>> 7cdbf8b77d7c13db2dd118a919b2b33b1a90125f

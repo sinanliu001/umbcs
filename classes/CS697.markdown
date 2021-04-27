@@ -1,0 +1,17 @@
+---
+footer_title: "CS697"
+layout: page
+permalink: "/CS697"
+---
+
+## {{page.footer_title}}
+\
+**Special Topics (3 credits)**
+
+---
+\
+Topics of current interest in the field, according to student and faculty areas of specialization. Course content varies according to the topic and wiill be announced prior to registration.
+
+**Pre-requisites:**
+\
+instructor permission
