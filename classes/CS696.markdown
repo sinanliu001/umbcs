@@ -1,14 +1,16 @@
 ---
 footer_title: "CS696"
 layout: page
-permalink: "/CS696"
+permalink: "/academics/courses/CS696"
 ---
 
 ## {{page.footer_title}}
+
 \
 **Independent Study (3 credits)**
 
 ---
+
 \
 A student must find a faculty sponsor for his or her independent study and arrange study under that person, normally about a computer science topic not covered by the department's courses.
 

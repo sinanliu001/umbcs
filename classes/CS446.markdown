@@ -1,14 +1,16 @@
 ---
 footer_title: "CS446"
 layout: page
-permalink: "/CS446"
+permalink: "/academics/courses/CS446"
 ---
 
 ## {{page.footer_title}}
+
 \
 **Introduction to Internetworking (3 credits)**
 
 ---
+
 \
 The objective of this course is to provide a practical understanding of computer networks, with emphasis on the Internet. The course starts with an overview of the Internet, its protocol layers, edge and core networks, access networks and physical media. The course then focuses on fundamental design and implementation concepts of the application, transport, and network layers of the Internet.
 
