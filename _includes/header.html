@@ -21,16 +21,16 @@
         <label for="drop" class="toggle">Menu</label>
         <input type="checkbox" id="drop" />
         <ul class="menu">
-          <li><a href="/umbcs/">Home</a></li>
+          <li><a href="{{ site.baseurl }}/">Home</a></li>
           {% for menui in site.data.menu %}
             <li>
             <label for="drop-{{ menui.title }}" class="toggle">{{ menui.title }}</label>
-            <a href="/umbcs{{ menui.link }}">{{ menui.title }}</a>
+            <a href="{{ site.baseurl }}{{ menui.link }}">{{ menui.title }}</a>
             <input type="checkbox" id="drop-{{ menui.title }}"/>
               {% if menui.submenu %}
                 <ul>
                   {% for submenui in menui.submenu %}
-                    <li><a href="/umbcs{{ submenui.link }}">{{ submenui.title }}</a></li>
+                    <li><a href="{{ site.baseurl }}{{ submenui.link }}">{{ submenui.title }}</a></li>
                   {% endfor %}
                 </ul>
               {% endif %}
