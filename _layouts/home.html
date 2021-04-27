@@ -3,13 +3,28 @@ layout: default
 ---
 
 
- {{ content }}
+ 
 
 
 <div class="home">
   {%- if page.title -%}
     <h1 class="page-heading">{{ page.title }}</h1>
   {%- endif -%}
+
+<table style="width:100%">
+<colgroup>
+       <col span="1" style="width: 70%;">
+       <col span="1" style="width: 30%;">
+    </colgroup>
+<tr>
+<td>
+{% include carousel.html height="50" unit="%" duration="7" %}
+</td>
+<td>
+Welcome text goes here.
+</td>
+</tr>
+</table>
 
 <table style="width:100%">
   <tr>
@@ -19,7 +34,7 @@ layout: default
   </tr>
   <tr>
     <td>
-	{%- for post in site.posts limit:3 -%}
+	{%- for post in site.posts -%}
       <li>
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
         <span class="post-meta">{{ post.date | date: date_format }}</span>
@@ -70,28 +85,6 @@ layout: default
     </td>
 </table>
 
-<!--
-  {%- if site.posts.size > 0 -%}
-    <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
-    <ul class="post-list">
-      {%- for post in site.posts -%}
-      <li>
-        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-        <span class="post-meta">{{ post.date | date: date_format }}</span>
-        <h3>
-          <a class="post-link" href="{{ post.url | relative_url }}">
-            {{ post.title | escape }}
-          </a>
-        </h3>
-        {%- if site.show_excerpts -%}
-          {{ post.excerpt }}
-        {%- endif -%}
-      </li>
-      {%- endfor -%}
-    </ul>
-{% endif %}
-
-adding a comment
---->
-
 </div>
+
+{% include follow-buttons.html %}
