@@ -1,0 +1,17 @@
+---
+footer_title: "CS646"
+layout: page
+permalink: "/CS646"
+---
+
+## {{page.footer_title}}
+\
+**Computer Communication Networks (3 credits)**
+
+---
+\
+Need for computer networks. Architectures of networks. Architectures of systems. ISO Reference Model. Standardization efforts. Specification of protocols. Example of protocols and networks.
+
+**Pre-requisites**
+\
+CS641
