@@ -42,7 +42,7 @@ The Computer Science Department does not offer winter courses; we only offer cla
 
 **Application elective**: The applications requirement may be satisfied by any Computer Science course numbered higher than CS341, or by a course taught outside of the department of Computer Science in computer applications to another discipline. Students wishing to use such a course as the applications elective for a Certificate must have their choice approved in advance by the Undergraduate Program Director and must meet the prerequisites for the course set by the department in which it is offered.
 
-Interested students who would like to speak to an advisor about our Undergraduate Certificate should contact the CS Undergraduate Program Director, [Nurit Haspel](someLink).
+Interested students who would like to speak to an advisor about our Undergraduate Certificate should contact the CS Undergraduate Program Director, [Nurit Haspel](mailto:nurit.haspel@umb.edu).
 <br>
 
 ---
@@ -59,16 +59,16 @@ The decision to institute this program was made upon our assessment of a strong 
 
 Proficiency in programming will be expected (including Java and C). The entire program is offered in the extended day, so the students can attend while holding a full-time position in industry.
 
-The certificate requires 12 credit hours (4 courses). The basic training consists of a sequence of three courses: [CS630]({{site.baseurl}}/academics/courses/CS630) (Database Management Systems), [CS615](someLink) (User Interface Design), and [CS634]({{site.baseurl}}/academics/courses/CS634) (Architecture of Database Systems). These courses provide a thorough introduction to relational and object-relational databases, SQL, indexing, concurrency and recovery, and design of user interfaces for database applications.
+The certificate requires 12 credit hours (4 courses). The basic training consists of a sequence of three courses: [CS630]({{site.baseurl}}/academics/courses/CS630) (Database Management Systems), [CS615]({{site.baseurl}}/academics/courses/CS615) (User Interface Design), and [CS634]({{site.baseurl}}/academics/courses/CS634) (Architecture of Database Systems). These courses provide a thorough introduction to relational and object-relational databases, SQL, indexing, concurrency and recovery, and design of user interfaces for database applications.
 
 For information regarding the Graduate Certificate, including fees and registration, please visit the webpage for the [College of Advancing and Professional Studies](https://www.umb.edu/academics/caps).
 
 Faculty teaching in the graduate certificate program consists of the following:
 
-[Elizabeth O’Neil](someLink), Professor: Database management Systems, Architecture of Database Systems, Database Application Development, Semistructured Data and XML Documents on the Web, Database Internals
+[Elizabeth O’Neil](https://www.umb.edu/academics/csm/faculty_staff/elizabeth_oneil), Professor: Database management Systems, Architecture of Database Systems, Database Application Development, Semistructured Data and XML Documents on the Web, Database Internals
 
-[Dan Simovici](someLink), Professor and Program Director: Database management Systems, Data Mining
+[Dan Simovici](https://www.umb.edu/academics/csm/faculty_staff/dan_simovici), Professor and Program Director: Database management Systems, Data Mining
 
-[Wei Ding](someLink), Associate Professor: Database-Backed Web Sites and Web Services
+[Wei Ding](https://www.umb.edu/academics/csm/faculty_staff/wei_ding), Associate Professor: Database-Backed Web Sites and Web Services
 
-[Gabriel Ghinita](someLink), Associate Professor: Database Management Systems, Database Security
+[Gabriel Ghinita](https://www.umb.edu/academics/csm/computer_science/faculty/gabriel_ghinita), Associate Professor: Database Management Systems, Database Security

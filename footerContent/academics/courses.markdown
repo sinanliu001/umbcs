@@ -4,6 +4,12 @@ layout: page
 permalink: "/courses"
 ---
 
+## {{page.footer_title}}
+
+---
+
+<br>
+
 [CS105: Introduction to Computer Concepts]({{site.baseurl}}/academics/courses/CS105) \
 [CS108: An Introduction to Python]({{site.baseurl}}/academics/courses/CS108) \
 [CS109: Computer Programming for Engineering]({{site.baseurl}}/academics/courses/CS109) \
