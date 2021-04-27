@@ -2,6 +2,7 @@
 layout: page
 title: "Home"
 permalink: "/home"
+my_variable: "testFile"
 ---
 
 Go back to Homepage
