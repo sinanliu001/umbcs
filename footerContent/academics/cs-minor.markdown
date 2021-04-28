@@ -15,7 +15,7 @@ The CS minor program provides an education in the core courses of Computer Scien
 
 **Minor in Computer Science requirements:**
 
-- [CS110](some link), [MATH140](https://www.umb.edu/course_catalog/course_info/ugrd_MATH_all_140), [CS210]({{site.baseurl}}/academics/courses/CS210), [CS220]({{site.baseurl}}/academics/courses/CS220) , [CS240]({{site.baseurl}}/academics/courses/CS240), and [CS310]({{site.baseurl}}/academics/courses/CS310).
+- [CS110]({{site.baseurl}}/academics/courses/CS110), [MATH140](https://www.umb.edu/course_catalog/course_info/ugrd_MATH_all_140), [CS210]({{site.baseurl}}/academics/courses/CS210), [CS220]({{site.baseurl}}/academics/courses/CS220) , [CS240]({{site.baseurl}}/academics/courses/CS240), and [CS310]({{site.baseurl}}/academics/courses/CS310).
 - One CS elective at the 300- or higher levels.
 - A minimum 2.0 GPA of the courses for the CS minor is required.
 
