@@ -1,17 +1,18 @@
 ---
 footer_title: "CS187SL"
 layout: page
-permalink: "/CS187SL"
+permalink: "/academics/courses/CS187SL"
 ---
 
 ## {{page.footer_title}}
+
 \
 **Science Gateway Seminar I (2 credits)**
 
 ---
+
 \
 This is a two-semester course on technology, in particular information technology (IT) and how it relates to our lives. Students will read both fiction and non-fiction where technology is an issue, and discuss it in written work and orally, both individually and in small groups. The overall goal is to learn about and discuss various facets of information technology and its social implications.
-
 
 **Note:**
 \

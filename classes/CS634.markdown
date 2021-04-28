@@ -1,14 +1,16 @@
 ---
 footer_title: "CS634"
 layout: page
-permalink: "/CS634"
+permalink: "/academics/courses/CS634"
 ---
 
 ## {{page.footer_title}}
+
 \
 **Architecture of Database Systems (3 credits)**
 
 ---
+
 \
 Indexing and query optimization in database systems. Writing programs to update a database. ACID properties. Concurrency theory: serializability, 2-phase locking, deadlock detection. Transactional Recovery: REDO and UNDO logging, different checkpoint approaches, media recovery. Examples of recovery utility use in INGRES, ORACLE and DB2. Transactional performance: the TPC-A benchmark, analysis of bottlenecks, and cost-performance considerations. Distributed database systems. Two-phase commit. Database parallelism.
 

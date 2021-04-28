@@ -1,17 +1,18 @@
 ---
 footer_title: "CS410"
 layout: page
-permalink: "/CS410"
+permalink: "/academics/courses/CS410"
 ---
 
 ## {{page.footer_title}}
+
 \
 **Introduction to Software Engineering (3 credits)**
 
 ---
+
 \
 This course covers all aspects of the software development process from initial specification to final validation of completed software design. Implementation methodologies are discussed in the context of a major team project, to be chosen according to student and instructor interest. Oral presentations by students are an important part of the course.
-
 
 **Pre-requisites:**
 \

@@ -1,14 +1,16 @@
 ---
 footer_title: "CS498"
 layout: page
-permalink: "/CS498"
+permalink: "/academics/courses/CS498"
 ---
 
 ## {{page.footer_title}}
+
 \
 **Honors Thesis (1-3 credits)**
 
 ---
+
 \
 The design and execution of a significant research project under the guidance of a faculty advisor. Successful completion and oral defense of the thesis is necessary to qualify for Honors in Computer Science. Both the instructor and the project must be chosen and approved prior to the start of the course.
 
