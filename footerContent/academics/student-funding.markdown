@@ -27,10 +27,10 @@ Northrop Grumman Scholarship (formerly known as Litton) is awarded to outstandin
 
 Harold Weinberg Scholarship is awarded to outstanding students who demonstrate a spirit of challenge, strong sense of competition, and inspiration to team spirit.
 
-**If you are interested in please [visit here](some link) to apply.**
+**If you are interested in please [visit here](https://forms.umb.edu/csm-opportunities/c/csm-scholarships) to apply.**
 
 \
 **Other Funding Oppertunities**
 
-[Financial Aid](some link)
+[Financial Aid](http://www.umb.edu/admissions/financial_aid_scholarships)
 Includes information regarding various financial aid and loan programs through the university for freshman, transfer, graduate, and international students.
