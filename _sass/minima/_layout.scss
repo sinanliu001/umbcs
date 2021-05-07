@@ -34,11 +34,11 @@
   line-height: $base-line-height * $base-font-size * 2.25;
 
   .nav-trigger {
-    display: none;
+    display: table;
   }
 
   .menu-icon {
-    display: none;
+    display: table;
   }
 
   .page-link {
